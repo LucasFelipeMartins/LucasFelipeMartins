@@ -21,7 +21,7 @@ Um **Desenvolvedor Full Stack em formação**, apaixonado por criar projetos pr�
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ts,nextjs,nodejs,adonis,cpp,java,php,laravel,py,git,github,vscode,postgres,mysql,linkedin,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ts,nextjs,nodejs,adonis,cpp,java,php,laravel,py,git,github,vscode,postgres,mysql,linkedin)](#)
 
 
 ---
