@@ -3,7 +3,7 @@
 Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções eficientes e escaláveis, com foco em boas práticas, desenvolvimento responsivo e aprendizado contínuo.  
 - Aberto a colaborações em projetos  
 - Você pode me encontrar através:  
-<a href="lucasfelipemartins789@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/lucas-felipe-martins-0a18412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>  
+<a href="mailto:lucasfelipemartins789@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/lucas-felipe-martins-0a18412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>  
 
 ---
 
