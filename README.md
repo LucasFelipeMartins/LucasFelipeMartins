@@ -1,9 +1,9 @@
-# 👋 Oi, eu sou o Lucas Felipe <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Oi, eu sou o Lucas Felipe <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-Um **Desenvolvedor Full Stack em formação**, apaixonado por criar projetos práticos e aplicando boas práticas em todas as etapas.  
+Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções eficientes e escaláveis, com foco em boas práticas, desenvolvimento responsivo e aprendizado contínuo.  
 - Aberto a colaborações em projetos  
 - Você pode me encontrar através:  
-<a href="mailto:lucasfelipemartins20@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/lucas-felipe-martins/" title="LinkedIn"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>  
+<a href="mailto:lucasfelipemartins789@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/lucas-felipe-martins-0a18412b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>  
 
 ---
 
@@ -21,7 +21,7 @@ Um **Desenvolvedor Full Stack em formação**, apaixonado por criar projetos pr�
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ts,nextjs,nodejs,adonis,cpp,java,php,laravel,py,git,github,vscode,postgres,mysql,linkedin,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ts,nextjs,nodejs,adonis,cpp,java,php,laravel,py,git,github,vscode,postgres,mysql,&perline=13)](#)
 
 
 ---
