@@ -32,7 +32,7 @@ Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções efici
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 
-[![Lucas Felipe current streak](https://streak-stats.demolab.com/?user=LucasFelipeMartins&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![Lucas Felipe current streak](https://streak-stats.demolab.com/?user=LucasFelipeMartins&count_private=true&theme=blue-green&title_color=00b3ff)](https://github.com/LucasFelipeMartins?tab=overview&from=2025-08-01&to=2025-08-26#)  
 
 ---
 
