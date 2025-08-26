@@ -32,9 +32,6 @@ Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções efici
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 
-[![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=LucasFelipeMartins&show_icons=true&theme=blue-green)](https://github.com/LucasFelipeMartins)
-
-
 ---
 
 <p align="center">
