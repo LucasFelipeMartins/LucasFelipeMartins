@@ -28,7 +28,7 @@ Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções efici
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Estatísticas do GitHub  
 
-[![Lucas Felipe GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=LucasFelipeMartins&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![Lucas Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelipeMartins&show_icons=true&count_private=true&line_height=24&icon_color=00b3ff&theme=blue-green&title_color=00b3ff&border_radius=10)](https://github.com/LucasFelipeMartins)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 
