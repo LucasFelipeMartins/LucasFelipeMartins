@@ -9,7 +9,7 @@ Um **Desenvolvedor Full Stack em formação**, dedicado a criar soluções efici
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Meus Projetos Recentes  
 
-1. 🍔 [Hamburgueria Responsiva (Projeto B7Web)]((https://github.com/LucasFelipeMartins/Projeto-B7BURGUER.git))  
+1. 🍔 [Hamburgueria Responsiva (Projeto B7Web)](https://github.com/LucasFelipeMartins/Projeto-B7BURGUER.git)  
 2. 🍕 [Pizzaria (Manipulação JS + Carrinho + JSON)](https://github.com/LucasFelipeMartins/pizzaria)  
 3. 📚 [Sistema Biblioteca em Java (MVC + JSON + Recomendação de Livros)](https://github.com/LucasFelipeMartins/biblioteca-java)  
 4. ☕ [Clone Starbucks (HTML + CSS Grid)](https://github.com/LucasFelipeMartins/starbucks-clone)  
