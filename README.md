@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="mailto:lucasfelipemartins789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+<a href="mailto:lucasmartinsfelipe321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 <a href="https://www.linkedin.com/in/lucas-felipe-martins-0a18412b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
 <a href="https://wa.me/5532999552892"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" /></a>
 <a href="https://instagram.com/lucas7_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>
@@ -62,6 +62,8 @@ Construo **aplicações completas** — do modelo de dados à interface que o us
 `React 18` `Vite` `Express` `MongoDB` `Capacitor`
 
 <a href="https://github.com/LucasFelipeMartins/GestoFinance"><img src="https://img.shields.io/badge/Ver%20código-1B3A5C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://gesto-finance.vercel.app/entrar"><img src="https://img.shields.io/badge/Ver%20ao%20vivo-4FA3C7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 
 </td>
 </tr>
@@ -157,7 +159,7 @@ Um **"Tinder de filmes"** para decidir o que assistir em grupo sem discussão.
 Estou aberto a **freelas, projetos colaborativos e oportunidades como desenvolvedor**.
 
 <a href="https://wa.me/5532999552892"><img src="https://img.shields.io/badge/Chamar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" /></a>
-<a href="mailto:lucasfelipemartins789@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" /></a>
+<a href="mailto:lucasmartinsfelipe321@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FA3C7,50:2E6E8E,100:1B3A5C&height=120&section=footer" width="100%" />
 
