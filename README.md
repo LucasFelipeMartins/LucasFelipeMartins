@@ -138,18 +138,32 @@ Um **"Tinder de filmes"** para decidir o que assistir em grupo sem discussão.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Estatísticas
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasFelipeMartins&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA3C7&icon_color=4FA3C7&text_color=C9D1D9&border_radius=10&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FA3C7&text_color=C9D1D9&border_radius=10&langs_count=8&cache_seconds=86400" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=LucasFelipeMartins&hide_border=true&background=0D1117&stroke=4FA3C7&ring=4FA3C7&fire=2E6E8E&currStreakLabel=4FA3C7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=10" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFelipeMartins&bg_color=0D1117&color=4FA3C7&line=2E6E8E&point=C9D1D9&area=true&hide_border=true&radius=10" width="98%" />
+<img src="https://img.shields.io/github/followers/LucasFelipeMartins?style=for-the-badge&logo=github&labelColor=1B3A5C&color=4FA3C7&label=Seguidores" height="30" />
+<img src="https://img.shields.io/badge/Foco-Full%20Stack-1B3A5C?style=for-the-badge&labelColor=1B3A5C&color=4FA3C7" height="30" />
+<img src="https://img.shields.io/badge/Aberto%20a-Freelas%20e%20Vagas-1B3A5C?style=for-the-badge&labelColor=1B3A5C&color=25D366" height="30" />
+
+<br/><br/>
+
+<a href="https://github.com/LucasFelipeMartins/Projeto-Ryse">
+  <img src="https://img.shields.io/badge/🩺_Projeto_Ryse-Next.js%20%2B%20Supabase%20%2B%20IA-1B3A5C?style=flat-square&labelColor=0D1117" height="26" />
+</a>
+<a href="https://github.com/LucasFelipeMartins/GestoFinance">
+  <img src="https://img.shields.io/badge/💰_GestoFinance-React%20%2B%20Express%20%2B%20Offline--first-1B3A5C?style=flat-square&labelColor=0D1117" height="26" />
+</a>
+<br/>
+<a href="https://github.com/LucasFelipeMartins/Pagina-Vendedora">
+  <img src="https://img.shields.io/badge/🛍️_Pagina--Vendedora-Next.js%20%2B%20WhatsApp%20API-1B3A5C?style=flat-square&labelColor=0D1117" height="26" />
+</a>
+<a href="https://github.com/LucasFelipeMartins/CineMatch">
+  <img src="https://img.shields.io/badge/🎬_CineMatch-Flutter%20%2B%20Node.js%20%2B%20TMDB-1B3A5C?style=flat-square&labelColor=0D1117" height="26" />
+</a>
 
 </div>
 
