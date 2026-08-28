@@ -138,10 +138,19 @@ Um **"Tinder de filmes"** para decidir o que assistir em grupo sem discussão.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Estatísticas
-<div align="center"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasFelipeMartins&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FA3C7&icon_color=4FA3C7&text_color=C9D1D9&border_radius=10&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FA3C7&text_color=C9D1D9&border_radius=10&langs_count=8&cache_seconds=86400" /> <br/>
-  <img src="https://streak-stats.demolab.com?user=LucasFelipeMartins&hide_border=true&background=0D1117&stroke=4FA3C7&ring=4FA3C7&fire=2E6E8E&currStreakLabel=4FA3C7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=10" /> 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasFelipeMartins&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA3C7&icon_color=4FA3C7&text_color=C9D1D9&border_radius=10&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeMartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FA3C7&text_color=C9D1D9&border_radius=10&langs_count=8&cache_seconds=86400" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=LucasFelipeMartins&hide_border=true&background=0D1117&stroke=4FA3C7&ring=4FA3C7&fire=2E6E8E&currStreakLabel=4FA3C7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFelipeMartins&bg_color=0D1117&color=4FA3C7&line=2E6E8E&point=C9D1D9&area=true&hide_border=true&radius=10" width="98%" />
+
 </div>
 
 ---
